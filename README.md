@@ -1,1 +1,1 @@
-# rollno-BCS2026495-firstname-Ayush-day01-setup-practice
+BCS2026495-firstname-Ayush-day01-setup-practice
