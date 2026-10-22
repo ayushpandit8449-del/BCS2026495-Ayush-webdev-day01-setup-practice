@@ -1,1 +1,1 @@
-# BCS2026495-day01-setup-practice
+# BCS2026495-Ayush-day01-setup-practice
