@@ -10,4 +10,9 @@
 <img width="1116" height="621" alt="node-version" src="https://github.com/user-attachments/assets/6015dd4d-4c02-4cbf-8612-32a5a524bbc1" />
 
 ### Page running with Live Server
-<img width="1356" height="679" alt="live-server-page" src="https://github.com/user-attachments/assets/4eb9f179-0b53-442d-8376-90f44658b384" />
+<img width="1356" height="679" alt="live-server-page" src="https://github.com/user-attachments/assets/4eb9f179-0b53-442d-8376-90f44658b384" /> 
+
+
+Q. What Happens When I Enter a URL?
+
+Ans:- When I enter a URL in the browser, the browser uses DNS to find the IP address of the website's server. It then sends a request to the server to get the webpage. The server sends back the required files, such as HTML, CSS, JavaScript, and images. The browser processes these files, loads additional resources if needed, and displays the webpage on the screen.
